@@ -23,7 +23,7 @@ function setup() {
    let velocidadeMovimentacao = 8;
   
    function setup() {
-     createCanvas(1500, 400);
+     createCanvas(1600, 400);
    }
   
    function draw() {
